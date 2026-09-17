@@ -1,0 +1,60 @@
+{
+    "version": 1,
+    "beacons": [
+        {
+            "ident": "NVK",
+            "name": "Nordvik",
+            "type": "VOR",
+            "frequency": 113.25,
+            "hasDme": true,
+            "latitude": 63.4521,
+            "longitude": 10.9210,
+            "rangeNm": 130,
+            "inService": true
+        },
+        {
+            "ident": "NV",
+            "name": "Nordvik Approach",
+            "type": "NDB",
+            "frequency": 375.0,
+            "hasDme": false,
+            "latitude": 63.4102,
+            "longitude": 10.8433,
+            "rangeNm": 25,
+            "inService": true
+        },
+        {
+            "ident": "FJD",
+            "name": "Fjordheim",
+            "type": "VOR",
+            "frequency": 116.80,
+            "hasDme": false,
+            "latitude": 62.9870,
+            "longitude": 9.6512,
+            "rangeNm": 100,
+            "inService": true
+        },
+        {
+            "ident": "HLM",
+            "name": "Holmsund",
+            "type": "NDB",
+            "frequency": 402.5,
+            "hasDme": false,
+            "latitude": 63.8811,
+            "longitude": 11.4020,
+            "rangeNm": 50,
+            "inService": false
+        },
+        {
+            "ident": "SKR",
+            "name": "Skarvberg",
+            "type": "VOR",
+            "frequency": 112.40,
+            "hasDme": true,
+            "latitude": 64.2045,
+            "longitude": 12.0377,
+            "rangeNm": 80,
+            "inService": true
+        }
+    ]
+}
